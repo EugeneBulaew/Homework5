@@ -94,18 +94,18 @@ p {
 
 }
 
-.card-col {
+/* .card-col {
     display: flex;
-}
+    flex-wrap: wrap;
+} */
 
 .card {
     padding: 32px;
     border: 1px solid #d9d9d9;
     margin: 32px;
-    max-width: 600px;
+    width: 600px;
     display: flex;
-    flex-direction: column;
-    
+            
    }
 
 
